@@ -1,0 +1,8 @@
+menyelesaikan assigment 1
+mengerti git
+-init
+-add
+-commit
+-revert
+-branch
+-sorve conflict
